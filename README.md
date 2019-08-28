@@ -6,6 +6,9 @@
 [![GitHub](https://img.shields.io/github/license/mashape/apistatus.svg)](https://github.com/utz0r2/lashop)
 [![Build Status](https://travis-ci.com/utz0r2/lashop.svg?branch=master)](https://travis-ci.com/utz0r2/lashop)
 
+#FORKED FROM LASHOP
+
+
 ## About Lashop
 
 It is simple and fast shop based on laravel 5.6 and work without MySQL, you need only SQLite3. 
